@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 💬 Ask me about **C,C++,Python,HTML,CSS,JavaScript**
+- 💬 Ask me about **C,C++,Python,HTML,CSS,JavaScript and ReactJs**
 
 - 📫 How to reach me **anandpriyanka1000@gmail.com**
 
